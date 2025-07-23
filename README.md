@@ -25,7 +25,7 @@ To view a project:
    ```
 2. Navigate to any project folder:
    ```bash
-   cd Tailwind-Projects/project-01
+   cd Tailwind-Projects/Branding
    ```
 3. Open `index.html` in your browser.
 
