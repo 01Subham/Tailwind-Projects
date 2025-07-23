@@ -32,7 +32,7 @@ Web Agency/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/01Subham/Tailwind-Projects/Web Agency.git
+   git clone https://github.com/01Subham/Tailwind-Projects.git
    cd Tailwind-Projects/Web Agency
    ```
 
